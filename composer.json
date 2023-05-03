@@ -1,0 +1,14 @@
+{
+    "name": "phss2/ajax",
+    "autoload": {
+        "psr-4": {
+            "Phss2\\Ajax\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "phss27",
+            "email": "phsouzasilva27@gmail.com"
+        }
+    ]
+}
